@@ -7,7 +7,7 @@ def print_list(my_list):
 def help_me():
     print("Todo_list: let us handle your schedule")
     print("Add new schedule items, print todo list and feel good!")
-    print("Simple and practical!");
+    print("Simple and practical!")
   
 def add_to_list(my_list, todo_item):
     my_list.append(todo_item)
